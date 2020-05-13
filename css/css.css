@@ -1,0 +1,46 @@
+h1 ,h2, h3, h4, h5, h6 {
+    color: #1d273b;
+    font-weight: 300;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.miblog0 {
+	background: #1BC6AE;
+	color:white;
+	border: 1px solid #000000;
+}
+
+.pa1 {
+	background: #1BC6AE;
+	color:white;
+	border: 1px solid #000000;
+}
+
+.pa2 {
+	background: #1BC6AE;
+	color: white;
+	border: 1px solid #000000;
+}
+
+.quiensoy {
+	background: #1BC6AE;
+	color: white;
+	border: 1px solid #000000;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin-left: 10px;
+}
+
+nav ul li:nth-child(1) {
+    margin-left: 0;
+}
